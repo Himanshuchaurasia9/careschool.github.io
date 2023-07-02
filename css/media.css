@@ -22,11 +22,15 @@
     .header-top{
         display: none;
     }
+    .navbar 
+.snav{
+    justify-content: space-between;
+    margin: 0 1rem;
+    
+}
     .fcredit{
         text-align: center;
-    }
-}
-@media (max-width: 767px){
+    }    
     .support-button{
         display: none !important;
     }
