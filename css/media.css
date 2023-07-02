@@ -1,5 +1,6 @@
 
 @media (max-width: 1199px){
+   
 
 }
 @media (max-width:991px){
@@ -25,10 +26,20 @@
     .fcredit{
         text-align: center;
     }
-}
-@media (max-width: 767px){
+    .navbar 
+    .snav{
+        justify-content: space-between;
+        margin: 0 1rem;
+    }
+
     .support-button{
         display: none !important;
+    }
+    .top{
+        height: 14rem;
+    }
+    .top .carousel-item img{
+        height: 14rem;
     }
     #about-part{
         padding: 1rem 0;
@@ -36,4 +47,5 @@
     .box{
         padding: 1rem;
     }
+
 }
