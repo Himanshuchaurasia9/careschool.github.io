@@ -1,0 +1,39 @@
+
+@media (max-width: 1199px){
+
+}
+@media (max-width:991px){
+    .header-top{
+        font-size: 0.7rem;
+    }
+    .about-cont{
+        margin-bottom: 1rem;
+    }
+
+    footer .fbtn {
+        padding: 0.2rem 1rem;
+    }
+    footer .fcredit{
+        font-size: 0.8rem;
+    }
+
+}
+@media (max-width: 767px){
+    .header-top{
+        display: none;
+    }
+    .fcredit{
+        text-align: center;
+    }
+}
+@media (max-width: 767px){
+    .support-button{
+        display: none !important;
+    }
+    #about-part{
+        padding: 1rem 0;
+    }
+    .box{
+        padding: 1rem;
+    }
+}
