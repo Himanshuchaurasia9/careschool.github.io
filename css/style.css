@@ -137,6 +137,11 @@ p {
 background-color: var(--bg-white);
 
 }
+.navbar 
+.snav{
+    justify-content: space-around;
+    
+}
 
 .support p{
     font-size: 0.8rem;
@@ -222,7 +227,7 @@ background-color: var(--bg-white);
 .box{
     -webkit-box-shadow: 0px 0px 191px 0px rgba(0,0,0,0.06);
     box-shadow: 0px 0px 191px 0px rgba(0,0,0,0.06);
-    padding: 65px 70px 37px;
+    padding: 2rem;
     background-color: rgba(255, 255, 255, 0.95);
 }
 
