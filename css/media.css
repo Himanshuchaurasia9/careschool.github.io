@@ -30,6 +30,12 @@
     .support-button{
         display: none !important;
     }
+    .top{
+        height: 14rem;
+    }
+    .top .carousel-item img{
+        height: 14rem;
+    }
     #about-part{
         padding: 1rem 0;
     }
